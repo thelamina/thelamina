@@ -3,7 +3,7 @@
 I am Itunu Lamina, I am a frontend engineer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-thelamina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itunulamina/)](https://www.linkedin.com/in/itunulamina/)
-[![Twitter Badge](https://img.shields.io/badge/-@thelamina_-03a57a?style=flat-square&labelColor=000000&logo=Twitter&link=https://medium.com/@thelamina_/)](https://medium.com/@thelamina_)
+[![Twitter Badge](https://img.shields.io/badge/-@thelamina_-03a57a?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/@thelamina_/)](https://twitter.com/@thelamina_)
 [![Gmail Badge](https://img.shields.io/badge/-laminaitunu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laminaitunu@gmail.com)](mailto:laminaitunu@gmail.com)
 
 ## ⚡ Technologies
