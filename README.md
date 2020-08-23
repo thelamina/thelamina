@@ -18,7 +18,7 @@ I am Itunu Lamina, I am a frontend engineer. I am always open to collaborating o
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify)
+![Netlify](https://img.shields.io/badge/-Netlify-0e1e25?style=flat-square&logo=netlify)
 ![Firebase](https://img.shields.io/badge/-Firebase-30098?style=flat-square&logo=firebase)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
 ![C++](https://img.shields.io/badge/-CSharp-00599C?style=flat-square&logo=c-sharp)
