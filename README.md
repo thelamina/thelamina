@@ -1,8 +1,8 @@
 # Hi!
 
-I am a frontend engineer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am a frontend engineer and I am here:
 
-> [![Linkedin Badge](https://img.shields.io/badge/-thelamina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itunulamina/)](https://www.linkedin.com/in/itunulamina/)
+[![Linkedin Badge](https://img.shields.io/badge/-thelamina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itunulamina/)](https://www.linkedin.com/in/itunulamina/)
 [![Twitter Badge](https://img.shields.io/badge/-@thelamina_-black?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/@thelamina_/)](https://twitter.com/@thelamina_)
 [![Gmail Badge](https://img.shields.io/badge/-laminaitunu@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laminaitunu@gmail.com)](mailto:laminaitunu@gmail.com)
 
@@ -40,5 +40,6 @@ I am a frontend engineer. I am always open to collaborating on projects and inno
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 -->
