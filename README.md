@@ -1,14 +1,14 @@
 # Hi!
 
-> I am a frontend engineer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am a frontend engineer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-thelamina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itunulamina/)](https://www.linkedin.com/in/itunulamina/)
+> [![Linkedin Badge](https://img.shields.io/badge/-thelamina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itunulamina/)](https://www.linkedin.com/in/itunulamina/)
 [![Twitter Badge](https://img.shields.io/badge/-@thelamina_-black?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/@thelamina_/)](https://twitter.com/@thelamina_)
 [![Gmail Badge](https://img.shields.io/badge/-laminaitunu@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laminaitunu@gmail.com)](mailto:laminaitunu@gmail.com)
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+> ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
