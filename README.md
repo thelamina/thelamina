@@ -2,7 +2,7 @@
 
 I am a frontend engineer and I am here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-thelamina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itunulamina/)](https://www.linkedin.com/in/itunulamina/)
+[![Linkedin Badge](https://img.shields.io/badge/-thelamina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thelamina/)](https://www.linkedin.com/in/itunulamina/)
 [![Twitter Badge](https://img.shields.io/badge/-@thelamina_-black?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/@thelamina_/)](https://twitter.com/@thelamina_)
 [![Gmail Badge](https://img.shields.io/badge/-laminaitunu@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laminaitunu@gmail.com)](mailto:laminaitunu@gmail.com)
 
@@ -26,8 +26,6 @@ I am a frontend engineer and I am here:
 
 <!--![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
@@ -40,6 +38,5 @@ I am a frontend engineer and I am here:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 -->
