@@ -2,7 +2,7 @@
 
 I am a frontend engineer and I am here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-thelamina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thelamina/)](https://www.linkedin.com/in/itunulamina/)
+[![Linkedin Badge](https://img.shields.io/badge/-thelamina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thelamina/)](https://www.linkedin.com/in/thelamina/)
 [![Twitter Badge](https://img.shields.io/badge/-@thelamina_-black?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/@thelamina_/)](https://twitter.com/@thelamina_)
 [![Gmail Badge](https://img.shields.io/badge/-laminaitunu@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laminaitunu@gmail.com)](mailto:laminaitunu@gmail.com)
 
