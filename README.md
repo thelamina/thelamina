@@ -2,9 +2,9 @@
 
 I am Itunu Lamina, I am a frontend engineer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-thelamina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itunulamina/)](https://www.linkedin.com/in/itunulamina/)
-[![Twitter Badge](https://img.shields.io/badge/-@thelamina_-03a57a?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/@thelamina_/)](https://twitter.com/@thelamina_)
-[![Gmail Badge](https://img.shields.io/badge/-laminaitunu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laminaitunu@gmail.com)](mailto:laminaitunu@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-thelamina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itunulamina/)](https://www.linkedin.com/in/itunulamina/)
+[![Twitter Badge](https://img.shields.io/badge/-@thelamina_-black?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/@thelamina_/)](https://twitter.com/@thelamina_)
+[![Gmail Badge](https://img.shields.io/badge/-laminaitunu@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laminaitunu@gmail.com)](mailto:laminaitunu@gmail.com)
 
 ## ⚡ Technologies
 
@@ -42,5 +42,3 @@ I am Itunu Lamina, I am a frontend engineer. I am always open to collaborating o
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=thelamina&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelamina&hide=TeX&layout=compact)
