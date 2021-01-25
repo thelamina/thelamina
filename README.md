@@ -6,7 +6,7 @@ I am a frontend engineer and I am here:
 [![Twitter Badge](https://img.shields.io/badge/-@thelamina_-black?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/@thelamina_/)](https://twitter.com/@thelamina_)
 [![Gmail Badge](https://img.shields.io/badge/-laminaitunu@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laminaitunu@gmail.com)](mailto:laminaitunu@gmail.com)
 
-## Tools I use
+## 🛠️ Tools I use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
