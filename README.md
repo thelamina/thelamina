@@ -19,6 +19,8 @@ I am a frontend engineer and I am here:
 ![NextJs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Mobx](https://img.shields.io/badge/-Mobx-black?style=flat-square&logo=mobx)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
