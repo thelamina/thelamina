@@ -11,6 +11,7 @@ I am a frontend engineer and I am here:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nestjs)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
@@ -19,6 +20,7 @@ I am a frontend engineer and I am here:
 ![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
 
