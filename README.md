@@ -1,12 +1,12 @@
 # Hi!
 
-I am a frontend engineer and I am here:
+I am a software engineer and I am here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-thelamina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thelamina/)](https://www.linkedin.com/in/thelamina/)
 [![Twitter Badge](https://img.shields.io/badge/-@i_thelamina-black?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/@i_thelamina/)](https://twitter.com/@i_thelamina)
 [![Gmail Badge](https://img.shields.io/badge/-laminaitunu@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laminaitunu@gmail.com)](mailto:laminaitunu@gmail.com)
 
-## 🛠️ Tools I use
+<!--## 🛠️ Tools I use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
